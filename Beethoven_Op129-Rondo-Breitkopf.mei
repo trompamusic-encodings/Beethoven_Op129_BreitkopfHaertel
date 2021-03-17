@@ -15356,8 +15356,8 @@
                               <note xml:id="note-0000001773887446" dur="2" oct="3" pname="g" stem.dir="down" />
                            </layer>
                         </staff>
-                        <dynam xml:id="dir-0000000562400679" place="below" staff="1" tstamp="1.000000" vgrp="200">p</dynam>
-                        <dynam xml:id="dir-0000000562400680" place="below" staff="1" tstamp="2.500000" vgrp="200">sempre dimin.</dynam>
+                        <dynam xml:id="dir-0000000562400679" place="between" staff="1 2" tstamp="1.000000" vgrp="200">p</dynam>
+                        <dynam xml:id="dir-0000000562400680" place="between" staff="1 2" tstamp="2.500000" vgrp="200">sempre dimin.</dynam>
                      </measure>
                      <measure xml:id="measure-0000000210833621" n="423">
                         <staff xml:id="staff-0000002093406743" n="1">
@@ -15645,7 +15645,7 @@
                               <note xml:id="note-0000000296901642" dur="2" oct="1" pname="g" stem.dir="down" />
                            </layer>
                         </staff>
-                        <dynam xml:id="dynam-0000001900018830" place="below" staff="1" tstamp="1.000000" vgrp="200">pp</dynam>
+                        <dynam xml:id="dynam-0000001900018830" place="between" staff="1 2" tstamp="1.000000" vgrp="200">pp</dynam>
                      </measure>
                      <measure xml:id="measure-0000000611504963" n="431">
                         <staff xml:id="staff-0000001110572268" n="1">
@@ -15775,7 +15775,7 @@
                               <note xml:id="note-0000000193938702" dur="2" oct="1" pname="g" stem.dir="down" />
                            </layer>
                         </staff>
-                        <dynam xml:id="dynam-0000000508808099" place="above" staff="2" tstamp="1.500000" vgrp="200">cresc.</dynam>
+                        <dynam xml:id="dynam-0000000508808099" place="between" staff="1 2" tstamp="1.500000" vgrp="200">cresc.</dynam>
                      </measure>
                      <measure xml:id="measure-0000001925083049" n="435">
                         <staff xml:id="staff-0000000263467815" n="1">
@@ -15816,7 +15816,7 @@
                               <rest xml:id="rest-0000001673670163" dur="4" />
                            </layer>
                         </staff>
-                        <dynam xml:id="dynam-0000000787487257" place="below" staff="1" tstamp="1.000000" vgrp="200">ff</dynam>
+                        <dynam xml:id="dynam-0000000787487257" place="between" staff="1 2" tstamp="1.000000" vgrp="200">ff</dynam>
                      </measure>
                      <measure xml:id="measure-0000001633621135" n="437">
                         <staff xml:id="staff-0000001082819250" n="1">
