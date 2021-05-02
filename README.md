@@ -1,6 +1,9 @@
 ![TROMPA: Towards Richer Online Music Public-domain Archives](https://trompamusic.eu/sites/default/files/top-bar-logo_0_0.png)
                                                                                 
-# MEI encoding: Rondo a Capriccio (Opus 129 „Die Wut über den verlorenen Groschen“) by Ludwig van Beethoven             
+# MEI encoding: Rondo a Capriccio (Opus 129 „Die Wut über den verlorenen Groschen“) by Ludwig van Beethoven
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4733179.svg)](https://doi.org/10.5281/zenodo.4733179)
+
+
                                                                                 
 This repository contains an [MEI](https://music-encoding.org) encoding of [Rondo a Capriccio (Opus 129 „Die Wut über den verlorenen Groschen“) by Ludwig van Beethoven, Breitkopf und Härtel edition, 1862–90. Series 18, Plate B.191.](https://imslp.org/wiki/Special:ReverseLookup/58147) 
                                                                                 
