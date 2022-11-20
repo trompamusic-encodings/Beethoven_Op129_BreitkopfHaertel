@@ -309,6 +309,7 @@
                   <expansion plist="#A #B #B1 #B #B2 #C #C1 #C #C2 #D #E #F #F #G #G #H #I" xml:id="expansion-default" />
                   <expansion plist="#A #B #B2 #C #C2 #D #E #F #G #H #I" xml:id="expansion-minimal" />
                   <section xml:id="A">
+                     <pb xml:id="pb-0000000440201432"/>
                      <measure xml:id="measure-0000000440201816" n="1">
                         <staff xml:id="staff-0000000969695551" n="1">
                            <layer xml:id="layer-0000001788701916" n="1">
